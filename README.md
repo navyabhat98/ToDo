@@ -1,10 +1,11 @@
 # ToDo
-My todo liist
+My todo list
 
 - mango
+- apple
+- banana
 
-
-## mobile phones
+## Mobile Phones
 - honor
 - vivo
 - iphone
